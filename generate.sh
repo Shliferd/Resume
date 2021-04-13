@@ -9,4 +9,4 @@ sed -i '' -e 's|http://|https://|g' index.html
 # push
 git add .
 git commit -m 'update content'
-git push origin master
+git push origin main
