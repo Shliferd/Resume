@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Matea Andrei",
+    "label": "Software Engineer",
+    "picture": "profile.jpg",
+    "email": "andrei.matea96@gmail.com",
+    "phone": "(+40) 764.147.485",
+    "website": "",
+    "summary": "Young, bold, empathic, joyful",
+    "location": {
+      "city": "Remote",
+      "region": "Cluj-Napoca",
+      "countryCode": "RO"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Shliferd",
+        "url": "https://github.com/Shliferd"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "andrei-matea",
+        "url": "https://www.linkedin.com/in/andrei-matea"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Halcyon Mobile",
+      "position": "Software Engineer",
+      "website": "https://halcyonmobile.com",
+      "startDate": "2018-07-01",
+      "summary": "Swift",
+      "highlights": ["Autolayout", "BLE", "Swift UI"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Babes-Bolyai University",
+      "position": "Mentor @ UBB IT Hub",
+      "website": "http://ubbithub.csubb.ro/",
+      "startDate": "2018-03-01",
+      "endDate": "2018-09-01",
+      "summary": "Improve the digitalization level of the academic and administrative processes within Babes-Bolyai University.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Babes-Bolyai University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2015-10-01",
+      "endDate": "2018-07-08",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Entrepreneurship Nights",
+      "date": "2017-12-09",
+      "awarder": "SAS UBB",
+      "summary": "1st place - Best business idea."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Worked with",
+      "keywords":[
+        "AWS",
+        "Docker",
+        "Golang",
+        "Kafka",
+        "Kubernetes",
+        "JavaScript",
+        "MongoDB",
+        "MySQL",
+        "Linux",
+        "PHP", 
+        "Python",
+        "RabbitMQ",
+        "Redis",
+        "Terraform"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": []
+    },
+    {
+      "name": "Public speaking",
+      "keywords": []
+    },
+    {
+      "name": "Entrepreneurship",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
