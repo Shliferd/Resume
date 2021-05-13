@@ -6,7 +6,7 @@
     "email": "andrei.matea96@gmail.com",
     "phone": "(+40) 764.147.485",
     "website": "",
-    "summary": "Young, bold, empathic, joyful",
+    "summary": "Dedicated and enthusiastic iOS Developer with several years experience in delivering apps from scratch to AppStore release. Worked with many Start-Up project ideeas, but also with leading video industires and IoT clients for apps with milions of users. Strong UI skills gathered along the projects I’ve been working on including animations, transitions and different/more complex layers; strong knowledge with Bluetooth Low Energy and tracking apps. My empathic spirit helps me adapting quickly to new projects/teams and provides me an advantage in communications both with clients and other teams (e.g. Android) or team members.",
     "location": {
       "city": "Remote",
       "region": "Cluj-Napoca",
@@ -31,8 +31,32 @@
       "position": "Software Engineer",
       "website": "https://halcyonmobile.com",
       "startDate": "2018-07-01",
-      "summary": "Swift,  RxSwift,  Autolayout,  UI Compositional Layout,  Push Notifications,  GoogleAds,  Google Analytics,  Segment Analytics,  User movement tracking,  Bluetooth Low Energy,  Offline Support,  Local Storage,  Video Playing/Streaming,  CI/CD",
+      "summary": "While working on different projects, but also outsourcing you need to quickly adapt to changes/requests. With every one of them, my knowledge grew; below you have a description of those:",
       "highlights": []
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "summary": "Start-ups mean many and smaller projects, each of them with their unique UI",
+      "highlights": ["Strong Autolayout skills", "Transitions", "Animations", "GIFs", "Image resizing", "Graphs and charts"]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "summary": "Bigger projects needs maintenance, more scalability and good project thinking before laying any code lines. Had the chance to work for leading video streaming industries and IoT clients with tens of device types",
+      "highlights": ["Strong architecture knowledge", "RxSwift and on-listening events", "Core Bluetooth", "Offline support", "Local storage"]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "summary": "Since on most of the apps different client requests may come and things may change during the implementation of one feature to another, I've had to grind my social/communicative skills to act in a profesional manner in each situation",
+      "highlights": ["Communication, within the team, but not only", "Problem solving", "Quick make of decisions based on different project states", "Accurate estimations"]
     }
   ],
   "volunteer": [
