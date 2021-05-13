@@ -35,22 +35,29 @@
       "highlights": []
     },
     {
+      "company": " ",
+      "position": " ",
+      "website": "",
+      "startDate": " ",
+      "endDate": " ",
       "summary": "Start-ups mean many and smaller projects, each of them with their unique UI",
       "highlights": ["Strong Autolayout skills", "Transitions", "Animations", "GIFs", "Image resizing", "Graphs and charts"]
     },
     {
-      "company": "",
-      "position": "",
+      "company": " ",
+      "position": " ",
       "website": "",
-      "startDate": "",
+      "startDate": " ",
+      "endDate": " ",
       "summary": "Bigger projects needs maintenance, more scalability and good project thinking before laying any code lines. Had the chance to work for leading video streaming industries and IoT clients with tens of device types",
       "highlights": ["Strong architecture knowledge", "RxSwift and on-listening events", "Core Bluetooth", "Offline support", "Local storage"]
     },
     {
-      "company": "",
-      "position": "",
+      "company": " ",
+      "position": " ",
       "website": "",
-      "startDate": "",
+      "startDate": " ",
+      "endDate": " ",
       "summary": "Since on most of the apps different client requests may come and things may change during the implementation of one feature to another, I've had to grind my social/communicative skills to act in a profesional manner in each situation",
       "highlights": ["Communication, within the team, but not only", "Problem solving", "Quick make of decisions based on different project states", "Accurate estimations"]
     }
