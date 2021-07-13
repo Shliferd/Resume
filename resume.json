@@ -103,7 +103,9 @@
         "Jenkins",
         "SwiftLint",
         "SwiftGen"
-      ],
+      ]
+    },
+    {
       "name": "Database",
       "keywords": [
         "Realm",
