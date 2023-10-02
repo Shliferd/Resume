@@ -27,10 +27,19 @@
     },
     "work": [
         {
+            "company": "GrubHub",
+            "position": "iOS Software Engineer",
+            "website": "https://about.grubhub.com/",
+            "startDate": "2022-08-01",
+            "summary": "This is the same project as BWS, my previous working experience, but directly within the client's team. I've been working on group orders feature and once that was done, moved to another team, regarding pre-checkout user experience. Inside the group orders team we've had to touch almost any other module of the app, beside of our own, since initially it was not supporting group ordering. We've encountered lots of challenages that I can talk more in person or if needed; transparency, scalability and comunications with other teams were the key points.",
+            "highlights": ["E-commerce - Food delivery project."]
+        },
+        {
             "company": "Blue Wire Software",
             "position": "iOS Software Engineer",
             "website": "https://bws.rocks",
             "startDate": "2021-09-01",
+            "endDate": "2022-07-31",
             "summary": "This collaboration resumes mostly working on a single project, long term. Each team has their own sub-project within the main app; good dependency handling being the most important aspect.",
             "highlights": ["E-commerce - Outsourced within client's team. Food delivery project with lots of legacy code."]
         },
