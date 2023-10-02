@@ -1,6 +1,6 @@
 # Resume
 
-Personal website created using https://jsonresume.org/ - it uses Classytheme, please check (here)[https://jsonresume.org/themes/] for other ones
+Personal website created using https://jsonresume.org/ - it uses Classytheme, please check [here](https://jsonresume.org/themes/) for other ones
 
 Prerequisites
 - `node`
