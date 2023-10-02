@@ -13,9 +13,9 @@ Steps:
 - run `resume export index.html --theme classy`
 
 Deploy
-Run `bash generate.sh`
+- Run `bash generate.sh`
 
 Export as PDF
-Run `bash export_to_pdf.sh`
+- Run `bash export_to_pdf.sh`
 
 e.g. -> https://andrei-matea.netlify.app/ 🤓
