@@ -18,4 +18,4 @@ Run `bash generate.sh`
 Export as PDF
 Run `bash export_to_pdf.sh`
 
-e.g. -> https://andrei-matea.netlify.app/
+e.g. -> (https://andrei-matea.netlify.app/)
