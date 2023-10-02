@@ -10,7 +10,7 @@ Steps:
 - install **resume-cli tool** (https://jsonresume.org/getting-started/)
 - install the theme `npm install jsonresume-theme-classy` - make sure you updated the theme name accordingly to the one you've downloaded and moved within the root folder of the **Resume** project.
 - create JSON schema (http://registry.jsonresume.org/) and saved it locally as `resume.json`
-- run resume export `index.html --theme classy`
+- run `resume export index.html --theme classy`
 
 Deploy
 Run `bash generate.sh`
