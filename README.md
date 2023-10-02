@@ -3,8 +3,8 @@
 Personal website created using https://jsonresume.org/. It uses Classytheme.
 
 Prerequisites
-`node`
-`npm`
+- `node`
+- `npm`
 
 Steps:
 - install resume-cli tool (https://jsonresume.org/getting-started/)
