@@ -19,3 +19,7 @@ Export as PDF
 - Run `bash export_to_pdf.sh`
 
 e.g. -> https://andrei-matea.netlify.app/ 🤓
+
+Additional info for arch64:
+- https://stackoverflow.com/questions/66002337/is-the-homebrew-chromium-m1-optimised
+- https://github.com/puppeteer/puppeteer/issues/4176
