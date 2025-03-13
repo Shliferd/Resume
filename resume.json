@@ -6,7 +6,7 @@
         "email": "andrei.matea96@gmail.com",
         "phone": "(+40) 764.147.485",
         "website": "",
-        "summary": "Dedicated and enthusiastic iOS Developer with several years experience in delivering apps from scratch to AppStore release. /nWorked with many Start-Up project ideas, but also with leading video / e-commerce industires and IoT clients.",
+        "summary": "Dedicated and enthusiastic iOS Developer with several years experience in delivering apps from scratch to AppStore release. Worked with many Start-Up project ideas, but also with leading video / e-commerce industires and IoT clients.",
         "location": {
             "city": "Remote",
             "region": "Cluj-Napoca",
@@ -31,8 +31,7 @@
             "position": "iOS Software Engineer",
             "website": "https://about.grubhub.com/",
             "startDate": "2022-08-01",
-            "summary": "This role continues my work from Blue Wire Software, now directly within the client's team. Initially, I contributed to the Group Orders feature, which required integration with multiple app modules that were not originally designed to support group ordering. This posed significant challenges related to transparency, scalability, and cross-team communication, all of which were crucial to successfully implementing the feature.",
-            "summary": "Once Group Orders was completed, I transitioned to a new team focused on pre-checkout user experience, where I now independently manage a part of the pre-checkout flow. My work involves refining the user journey before order placement, optimizing performance, and ensuring a seamless and intuitive experience.",
+            "summary": "This role continues my work from Blue Wire Software, now directly within the client's team. Initially, I contributed to the Group Orders feature, which required integration with multiple app modules that were not originally designed to support group ordering. This posed significant challenges related to transparency, scalability, and cross-team communication, all of which were crucial to successfully implementing the feature. Once Group Orders was completed, I transitioned to a new team focused on pre-checkout user experience, where I now independently manage a part of the pre-checkout flow. My work involves refining the user journey before order placement, optimizing performance, and ensuring a seamless and intuitive experience.",
             "highlights": [
                 "E-commerce - Food delivery application.",
                 "Pre-checkout flow - Leading improvements to enhance usability and streamline order finalization.",
@@ -45,8 +44,7 @@
             "website": "https://bws.rocks",
             "startDate": "2021-09-01",
             "endDate": "2022-07-31",
-            "summary": "During this collaboration, I worked on a long-term food delivery project, embedded within the client’s team. Each team was responsible for a specific sub-project within the main app, requiring strong dependency management and careful coordination across multiple teams. The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced.",
-            "summary": "The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced.",
+            "summary": "During this collaboration, I worked on a long-term food delivery project, embedded within the client’s team. Each team was responsible for a specific sub-project within the main app, requiring strong dependency management and careful coordination across multiple teams. The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced. The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced.",
             "highlights": [
                 "E-commerce - Outsourced to work directly within the client’s team.",
                 "Food delivery project - Tackling complex legacy code while contributing to new feature development."
@@ -58,7 +56,7 @@
             "website": "https://halcyonmobile.com",
             "startDate": "2018-07-01",
             "endDate": "2021-08-31",
-            "summary": "I embarked on a journey that significantly enhanced my technical expertise and professional growth. Collaborating with a dynamic team, I contributed to a diverse array of projects across multiple industries, including e-commerce, Bluetooth Low Energy (BLE) applications, video streaming, mental health, and user movement tracking.",
+            "summary": "I embarked on a journey that significantly enhanced my technical expertise and professional growth. Collaborating with a dynamic team, I contributed to a diverse array of projects across multiple industries, including e-commerce, Bluetooth Low Energy (BLE) applications, video streaming, mental health, and user movement tracking. Throughout my tenure at Halcyon Mobile, I embraced a culture of continuous learning and adaptability, contributing to the company's growth while honing my skills across various domains.",
             "highlights": [
                 "E-commerce - Contributed to two outsourced projects—an online car parts shop and an airline company's app—focusing on updating existing applications with new features. Utilized internal frameworks to maintain consistency across projects and implemented a CMS-driven architecture, enabling clients to make real-time changes without deploying new builds.", 
                 "Bluetooth Low Energy - Developed an application to control lighting devices via BLE, encompassing functionalities like device pairing, grouping, and applying various animations with adjustable colors, intensities, and frequencies. Emphasized offline storage and reactive programming to ensure seamless operation during interruptions.", 
@@ -66,8 +64,7 @@
                 "Mental health - Contributed to a successful startup focused on journaling, habit and mood tracking, and meditation. Gained experience in implementing various charts, animations, transitions, audio players, and managing cloud/in-app messaging.", 
                 "User tracking movement - Developed an application for marathon events, allowing users to purchase tickets and watch participants live or offline. Focused on tracking participants on a map with event-specific layers, utilizing MapBox, MapKit, and Google Maps.", 
                 "Local and internal projects - Initially focused on UI components and flow navigation, building foundational skills in UI design, networking, and application architecture."
-            ],
-            "summary": "Throughout my tenure at Halcyon Mobile, I embraced a culture of continuous learning and adaptability, contributing to the company's growth while honing my skills across various domains."
+            ]
         },
         {
             "company": "Halcyon Mobile",
