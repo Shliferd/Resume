@@ -6,7 +6,7 @@
         "email": "andrei.matea96@gmail.com",
         "phone": "(+40) 764.147.485",
         "website": "",
-        "summary": "Dedicated and enthusiastic iOS Developer with several years experience in delivering apps from scratch to AppStore release. Worked with many Start-Up project ideas, but also with leading video and e-commerce industires and IoT clients.",
+        "summary": "Dedicated and enthusiastic iOS Developer with several years experience in delivering apps from scratch to AppStore release. /nWorked with many Start-Up project ideas, but also with leading video / e-commerce industires and IoT clients.",
         "location": {
             "city": "Remote",
             "region": "Cluj-Napoca",
@@ -31,8 +31,13 @@
             "position": "iOS Software Engineer",
             "website": "https://about.grubhub.com/",
             "startDate": "2022-08-01",
-            "summary": "This is the same project as BWS, my previous working experience, but directly within the client's team. I've been working on group orders feature and once that was done, moved to another team, regarding pre-checkout user experience. Inside the group orders team we've had to touch almost any other module of the app, beside of our own, since initially it was not supporting group ordering. We've encountered lots of challenages that I can talk more in person or if needed; transparency, scalability and comunications with other teams were the key points.",
-            "highlights": ["E-commerce - Food delivery project."]
+            "summary": "This role continues my work from Blue Wire Software, now directly within the client's team. Initially, I contributed to the Group Orders feature, which required integration with multiple app modules that were not originally designed to support group ordering. This posed significant challenges related to transparency, scalability, and cross-team communication, all of which were crucial to successfully implementing the feature.",
+            "summary": "Once Group Orders was completed, I transitioned to a new team focused on pre-checkout user experience, where I now independently manage a part of the pre-checkout flow. My work involves refining the user journey before order placement, optimizing performance, and ensuring a seamless and intuitive experience.",
+            "highlights": [
+                "E-commerce - Food delivery application.",
+                "Pre-checkout flow - Leading improvements to enhance usability and streamline order finalization.",
+                "Group Orders - Integrated group ordering across the app, ensuring modular compatibility."
+            ]
         },
         {
             "company": "Blue Wire Software",
@@ -40,8 +45,12 @@
             "website": "https://bws.rocks",
             "startDate": "2021-09-01",
             "endDate": "2022-07-31",
-            "summary": "This collaboration resumes mostly working on a single project, long term. Each team has their own sub-project within the main app; good dependency handling being the most important aspect.",
-            "highlights": ["E-commerce - Outsourced within client's team. Food delivery project with lots of legacy code."]
+            "summary": "During this collaboration, I worked on a long-term food delivery project, embedded within the client’s team. Each team was responsible for a specific sub-project within the main app, requiring strong dependency management and careful coordination across multiple teams. The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced.",
+            "summary": "The project involved maintaining and improving legacy code, implementing new features, and ensuring the app remained scalable and maintainable as new functionalities were introduced.",
+            "highlights": [
+                "E-commerce - Outsourced to work directly within the client’s team.",
+                "Food delivery project - Tackling complex legacy code while contributing to new feature development."
+            ]
         },
         {
             "company": "Halcyon Mobile",
@@ -49,8 +58,16 @@
             "website": "https://halcyonmobile.com",
             "startDate": "2018-07-01",
             "endDate": "2021-08-31",
-            "summary": "As the starting point of my journey, Halcyon cultivated my knowledge and sharpened my skills with each project I had the chance to work on. As I've started from scratch and ground my professional skills, I've had the chance to grow with the company itself during a period of almost 3 years and to work on a variety of project ideas and utilities, as you can see below:",
-            "highlights": ["E-commerce - Worked on 2 projects here, an online shop for car parts and the other an airline company. For each of them I was working outsourced, mainly for updates on the already existing apps, such as new features or additions. On a daily basics I would work with mostly internal frameworks used across multiple projects, abstraction being a key element; the apps were CMS driven, the client could this way to make a change without the need of shipping a new build.", "Bluetooth Low Energy - The client had multiple lighting devices that aimed to be controlled via a mobile application. The app itself was supposed to do the job of a whole console, such as pairing, grouping, applying a variety of animations with different colours, intensities and frequencies, exporting/importing configurations from one device to another and so on. The offline storage and reactive programming were heavily used since all the data needed to be stored and interruptions with on hold/resume states could occur for different reasons.", "Video industry - Here's about 2 other outsourcing projects, basically focused on video and live streaming. Used the UICompositionalLayout for multiple scroll collections with different types of content cells. Content was section driven on the back-end response, applying a type depending on the response we've got back. Worked with video players, overlayers, picture in picture, advertisements and analytics.", "Mental health - It was a start-up idea, but the app was a blast, having a great success; it was focused on journaling, bullet journey, habit and mood tracking, meditation, etc. I've gathered knowledge about using different types of charts, animations and transitions, audio players and cloud/in-app messages.", "User tracking movement - The app was supposed to be used during marathons or races. You could buy tickets to different tournaments within the app either for participating or watching live/offline the other participants. The version I worked on focussed on the latter one; the user could observe on a map multiple participants, the track with different layers depending on the event and highlight various aspects to focus during the watch time. Used MapBox mostly, but also MapKit and Google Maps.", "Local and internal projects - These were the first projects I've been working on. I've been manily focused on UI components and flow navigations. Had the chance to work on the basics, as UI, networking and architecture."]
+            "summary": "I embarked on a journey that significantly enhanced my technical expertise and professional growth. Collaborating with a dynamic team, I contributed to a diverse array of projects across multiple industries, including e-commerce, Bluetooth Low Energy (BLE) applications, video streaming, mental health, and user movement tracking.",
+            "highlights": [
+                "E-commerce - Contributed to two outsourced projects—an online car parts shop and an airline company's app—focusing on updating existing applications with new features. Utilized internal frameworks to maintain consistency across projects and implemented a CMS-driven architecture, enabling clients to make real-time changes without deploying new builds.", 
+                "Bluetooth Low Energy - Developed an application to control lighting devices via BLE, encompassing functionalities like device pairing, grouping, and applying various animations with adjustable colors, intensities, and frequencies. Emphasized offline storage and reactive programming to ensure seamless operation during interruptions.", 
+                "Video industry - Worked on two outsourcing projects centered around video and live streaming. Implemented UICollectionViewCompositionalLayout for managing multiple scrollable collections with diverse content types. Handled video players, overlays, picture-in-picture mode, advertisements, and analytics integration.", 
+                "Mental health - Contributed to a successful startup focused on journaling, habit and mood tracking, and meditation. Gained experience in implementing various charts, animations, transitions, audio players, and managing cloud/in-app messaging.", 
+                "User tracking movement - Developed an application for marathon events, allowing users to purchase tickets and watch participants live or offline. Focused on tracking participants on a map with event-specific layers, utilizing MapBox, MapKit, and Google Maps.", 
+                "Local and internal projects - Initially focused on UI components and flow navigation, building foundational skills in UI design, networking, and application architecture."
+            ],
+            "summary": "Throughout my tenure at Halcyon Mobile, I embraced a culture of continuous learning and adaptability, contributing to the company's growth while honing my skills across various domains."
         },
         {
             "company": "Halcyon Mobile",
@@ -58,7 +75,7 @@
             "website": "https://halcyonmobile.com",
             "startDate": "2020-06-12",
             "endDate": "2020-08-17",
-            "summary": "During the internship each intern had one or two mentors who guided/helped him throughout the process, mostly with technical information/tips and tricks; pull request reviews and monitoring his/her progress",
+            "summary": "During the iOS internship, each intern was paired with a mentor who provided guidance and support throughout the program. Mentors primarily assisted with technical insights, best practices for Swift and iOS development, code optimization tips, pull request reviews, and progress tracking. They also helped interns navigate challenges related to UIKit, debugging, performance improvements, and adhering to Apple's Human Interface Guidelines.",
             "highlights": ["Constant feedback about the progress of an iOS junior", "Code reviews", "Team management within internship project"]
         }
     ],
@@ -69,7 +86,7 @@
             "website": "https://www.societatea-hermes.ro",
             "startDate": "2015-11-01",
             "endDate": "2018-01-01",
-            "summary": "We've organized different types of social and gathering events dedicated to UBB students, especially for Faculty of Mathematics and Informatics.",
+            "summary": "As part of my volunteer efforts with Societatea Hermes — the student organization of the Faculty of Mathematics and Computer Science at Babeș-Bolyai University — we organized various social and networking events tailored for UBB students, particularly those from the Faculty of Mathematics and Informatics. These initiatives aimed to foster community engagement and enhance the student experience.",
             "highlights": ["Destresiune", "SSMI", "Balul Bobocilor"]
         }
     ],
@@ -89,7 +106,7 @@
             "title": "Most active volunteer",
             "date": "2016-11-01",
             "awarder": "Societatea Hermes",
-            "summary": "As a sign of gratitude for the dedication, passion and perseverance shown during the event Freshman Ball"
+            "summary": "As a sign of gratitude for the dedication, passion and perseverance shown during the event Freshman Ball."
         }
     ],
     "skills": [
@@ -102,15 +119,18 @@
                 "AV Player",
                 "AV Sound Player",
                 "SwiftLint",
-                "SwiftGen"
+                "SwiftGen",
+                "MVC",
+                "MVVM"
             ]
         },
         {
             "name": "Dependency managers",
             "keywords": [
-                "Cocoapods",
                 "Swift Package Manager",
-                "Bundler"
+                "Cocoapods*",
+                "Bundler",
+                "Homebrew"
             ]
         },
         {
@@ -138,12 +158,14 @@
                 "Firebase",
                 "GRDB",
                 "MySQL",
+                "SQLite",
                 "Gigya"
             ]
         },
         {
             "name": "Notifications",
             "keywords": [
+                "Braze",
                 "Firebase Cloud Messaging",
                 "Firebase In-App Messaging"
             ]
@@ -167,14 +189,18 @@
             "keywords": [
                 "GoogleAds",
                 "Google Analytics",
-                "Segment"
+                "Segment",
+                "Clickstream",
+                "New Relic",
+                "DataDog"
             ]
         },
         {
             "name": "CI/CD",
             "keywords": [
                 "Fastlane",
-                "Jenkins"
+                "Jenkins",
+                "GitHub Actions / Workflows"
             ]
         }
     ],
